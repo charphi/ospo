@@ -41,6 +41,11 @@
             "code_url": "https://github.com/UVVIS-BIRA-IASB/qdoas"
         },
         {
+            "project": "OSERIT-Drift",
+            "owner": "RBINS/KBIN/IRSNB",
+            "code_url": "https://github.com/naturalsciences/OSERIT-drift"
+        },
+        {
             "project": "Orthanc",
             "owner": "UCLouvain",
             "code_url": "https://orthanc.uclouvain.be/hg/orthanc/file/tip"
